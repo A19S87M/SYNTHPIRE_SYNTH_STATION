@@ -1,0 +1,2 @@
+﻿# 2026
+Placeholder for D:\SYNTHPIRE_LLC\SYNTHPIRE_SYNTH_STATION\SYN_FACTORY\01_Intake\Failed\00_By_Date\2026.

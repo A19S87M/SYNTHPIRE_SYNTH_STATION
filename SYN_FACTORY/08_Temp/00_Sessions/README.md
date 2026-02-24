@@ -1,0 +1,2 @@
+﻿# 00_Sessions
+Placeholder for D:\SYNTHPIRE_LLC\SYNTHPIRE_SYNTH_STATION\SYN_FACTORY\08_Temp\00_Sessions.

@@ -1,0 +1,2 @@
+﻿# 00_Source
+Placeholder for D:\SYNTHPIRE_LLC\SYNTHPIRE_SYNTH_STATION\SYN_FACTORY\00_Ops\Modules\FileOrganizer.Core\00_Versions\v1\00_Source.

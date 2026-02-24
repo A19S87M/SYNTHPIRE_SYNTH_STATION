@@ -1,0 +1,6 @@
+﻿{
+    "monitoredShares": [
+        "\\\\server\\share1",
+        "\\\\server\\share2"
+    ]
+}

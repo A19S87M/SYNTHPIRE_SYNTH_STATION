@@ -1,0 +1,2 @@
+﻿# SYNTH_WARROOM
+Placeholder for SYNTH_WARROOM sub‑product under SYNTHPIRE_SYNTH_STATION.

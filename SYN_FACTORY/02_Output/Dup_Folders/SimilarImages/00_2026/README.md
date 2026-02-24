@@ -1,0 +1,2 @@
+﻿# 00_2026
+Placeholder for D:\SYNTHPIRE_LLC\SYNTHPIRE_SYNTH_STATION\SYN_FACTORY\02_Output\Dup_Folders\SimilarImages\00_2026.

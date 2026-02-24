@@ -1,0 +1,2 @@
+﻿# 01_Versions
+Placeholder for D:\SYNTHPIRE_LLC\SYNTHPIRE_SYNTH_STATION\SYN_SESSIONS\SYN_CORE\Models\00_Image\01_Versions.

@@ -1,0 +1,2 @@
+﻿# 00_By_Test
+Placeholder for D:\SYNTHPIRE_LLC\SYNTHPIRE_SYNTH_STATION\SYN_SCRIPYUM\05_Test\TestData\00_By_Test.

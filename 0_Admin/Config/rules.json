@@ -1,0 +1,4 @@
+﻿[
+    { "name": "MoveImages", "pattern": "*.jpg|*.png", "destination": "Images" },
+    { "name": "MoveDocuments", "pattern": "*.pdf|*.docx", "destination": "Documents" }
+]

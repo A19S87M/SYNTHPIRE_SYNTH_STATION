@@ -1,0 +1,7 @@
+﻿{
+    "version": "1.0",
+    "environment": "development",
+    "logLevel": "debug",
+    "maxThreads": 4,
+    "pluginsEnabled": true
+}

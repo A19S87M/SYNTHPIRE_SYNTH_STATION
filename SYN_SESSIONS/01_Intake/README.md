@@ -1,0 +1,2 @@
+﻿# 01_Intake
+Placeholder for D:\SYNTHPIRE_LLC\SYNTHPIRE_SYNTH_STATION\SYN_SESSIONS\01_Intake.

@@ -1,0 +1,2 @@
+﻿# 00_Active
+Placeholder for D:\SYNTHPIRE_LLC\SYNTHPIRE_SYNTH_STATION\SYN_SCRIPYUM\01_Intake\HotFolder\00_Active.
